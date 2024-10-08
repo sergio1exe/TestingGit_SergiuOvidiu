@@ -1,0 +1,11 @@
+#Modelos 3D como archivos largos en tamaño
+*.3dm	lfs
+*.3ds	lfs
+*.blend*	lfs
+*.c4d	lfs
+*.collada	lfs
+*.dae	lfs
+*dxf	lfs
+
+#Espacio de línea editor de texto Visual Studio
+*.sln text eol=crlf

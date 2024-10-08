@@ -1,0 +1,20 @@
+#GITIGNORE
+#Archivos binarios
+*.class
+*.exe
+
+#Archivos temporales de editores
+*.log
+*.tmp
+*.swp
+
+#Directorios de compilación
+/[Bb]uild/
+/[Tt]arget/
+
+#Imágenes y archivos de audio.
+*.png
+*.jpg
+*.mp3
+*.wav
+*.mp4
